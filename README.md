@@ -139,8 +139,8 @@ Create html file under static folder  time.html
 
 
 ## OUTPUT
+![Uploading Screenshot (3).png…]()
 
-<img width="1919" height="1016" alt="Screenshot 2025-12-23 210152" src="https://github.com/user-attachments/assets/ddd8aa40-6675-4a0d-951a-478dced5ec16" />
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
